@@ -15,12 +15,6 @@ return {
     },
   },
   {
-    "Mofiqul/dracula.nvim",
-    name = "dracula",
-    lazy = false,
-  },
-
-  {
     -- LazyVim configuration
     "LazyVim/LazyVim",
     opts = {
